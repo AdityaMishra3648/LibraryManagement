@@ -5,6 +5,7 @@
           "icon": "terminal-powershell",
           "args": ["-ExecutionPolicy", "Bypass"]
         }
+        // s
       },
       "terminal.integrated.defaultProfile.windows": "PowerShell",
 }
