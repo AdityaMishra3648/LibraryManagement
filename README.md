@@ -1,4 +1,4 @@
-# Library management system
+<!-- # Library management system
 <h3><i>[ MEAN stack project ]</i></h3>
 <hr>
 <h1>Implementation</h1>
@@ -47,4 +47,4 @@ When a user logs in, the user is shown a slider with the 3 most read books at th
 ![screencapture-localhost-4200-citalac-2022-10-31-13_58_27](https://user-images.githubusercontent.com/92127059/199015083-6ef51f3c-aa56-45ea-ad4d-610820070e6a.png)
 ![screencapture-localhost-4200-booksPage-2022-10-31-14_01_37](https://user-images.githubusercontent.com/92127059/199015105-f03d4a24-77a3-42a1-bed6-af18a70f9e67.png)
 ![screencapture-localhost-4200-booksPage-2022-10-31-14_03_59](https://user-images.githubusercontent.com/92127059/199015136-b2f939e5-ac6b-4468-8b29-c1bb7124cc78.png)
-![screencapture-localhost-4200-admin-2022-10-31-14_05_16](https://user-images.githubusercontent.com/92127059/199015150-85ed244b-c609-4fdc-834e-0aa079802cae.png)
+![screencapture-localhost-4200-admin-2022-10-31-14_05_16](https://user-images.githubusercontent.com/92127059/199015150-85ed244b-c609-4fdc-834e-0aa079802cae.png) -->
